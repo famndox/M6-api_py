@@ -19,7 +19,7 @@ Starter_Code:
 	     - Fig3...City Latitude vs. Cloudiness
 	     - Fig4...City Latitude vs. Wind Speed
    - starter_code:
-      - api_keys...don't touch this plz, thx!
+      - api_keys...you don't get to see this
 	  - WeatherPy...runs the WeatherPy program <<< Run this
 	  - VacationPy...runs the VacationPy program <<< Run this
 	  # Note that if re-running weatherPy with new results, use second 'commented' line of code in Load CSV cell

@@ -23,8 +23,3 @@ Starter_Code:
 	  - WeatherPy...runs the WeatherPy program <<< Run this
 	  - VacationPy...runs the VacationPy program <<< Run this
 	  # Note that if re-running weatherPy with new results, use second 'commented' line of code in Load CSV cell
-	  
-	  
-Not much else to say, had to use the documentation for this one:
-https://hvplot.holoviz.org/user_guide/Customization.html
-https://apidocs.geoapify.com/docs/places/#categories
